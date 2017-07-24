@@ -1,0 +1,61 @@
+body {
+	background-color: black;
+	color: seashell;
+	font-family: helvetica;
+	font-size: 22px;
+	text-align: center;
+	
+}
+
+nav {
+	text-align: right;
+}
+
+.container1 {
+	display: flex;
+}
+
+.container1, #mission {
+	background-image: url();
+	height: 700px;
+}
+
+.header nav span {
+	display: flex;
+	justify-content: flex-end;
+	color: seashell;
+}
+
+.container2 {
+	display: flex;
+	flex-wrap: wrap;
+	width: 1000px;
+}
+
+.container2 img {
+	height: 200px;
+}
+
+.images {
+	display: flex;
+	justify-content: center;
+}
+
+a {
+	color: seashell;
+	font-size: 22px;
+}
+
+header img {
+	height: 50px;
+	padding-left: 10px
+}
+
+
+#logo {
+	display: flex;
+	justify-content: flex-start;
+	height: 50px;
+	width: 70px;
+
+}

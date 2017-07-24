@@ -1,0 +1,36 @@
+body {
+	background-color: black;
+}
+
+#mission {
+	color: seashell;
+	background-image: url("../images/top-background.jpeg")
+}
+
+#mission h2 p {
+	color: seashell;
+}
+
+.header {
+	display: flex;
+	color: seashell;
+	
+}
+
+#logo {
+	height: 50px;
+	color: seashell;
+}
+
+.container {
+	height: 700px;
+	padding: 10px;
+}
+
+span {
+	color: seashell;
+}
+
+.month {
+	color: white;
+}
